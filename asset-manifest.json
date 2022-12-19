@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/esdx245/react_ex1/static/css/main.073c9b0a.css",
-    "main.js": "/esdx245/react_ex1/static/js/main.b455c113.js",
-    "index.html": "/esdx245/react_ex1/index.html",
-    "main.073c9b0a.css.map": "/esdx245/react_ex1/static/css/main.073c9b0a.css.map",
-    "main.b455c113.js.map": "/esdx245/react_ex1/static/js/main.b455c113.js.map"
+    "main.css": "/%20//esdx245.github.io/react_ex1/static/css/main.073c9b0a.css",
+    "main.js": "/%20//esdx245.github.io/react_ex1/static/js/main.b455c113.js",
+    "index.html": "/%20//esdx245.github.io/react_ex1/index.html",
+    "main.073c9b0a.css.map": "/%20//esdx245.github.io/react_ex1/static/css/main.073c9b0a.css.map",
+    "main.b455c113.js.map": "/%20//esdx245.github.io/react_ex1/static/js/main.b455c113.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
